@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540109284 source:d:\cpp\simulatedannealing\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<random>
+
